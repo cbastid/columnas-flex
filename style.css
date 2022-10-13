@@ -1,0 +1,25 @@
+.main{
+    background-color: darkgray;
+}
+.row, .row2, .row3{
+    display: flex;
+    
+}
+.col{
+    flex: 1;
+    background-color: dodgerblue;
+    padding: 20px;
+    margin: 10px;
+}
+.col2{
+    flex: 2;
+    background-color: dodgerblue;
+    padding: 20px;
+    margin: 10px;
+}
+.col3{
+    flex: 3;
+    background-color: dodgerblue;
+    padding: 20px;
+    margin: 10px;
+}
